@@ -3,7 +3,7 @@ class class_reverse:
     def __init__(self, s):
         self.s = s
 
-    def reverse(self):
+    def revStr(self):
         return self.s[::-1]
 
 str = input("Enter the word to be reversed : ")
