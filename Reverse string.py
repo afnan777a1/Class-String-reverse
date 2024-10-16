@@ -8,4 +8,4 @@ class class_reverse:
 
 str = input("Enter the word to be reversed : ")
 o1 = class_reverse(str)
-print("The reversed string is : ", o1.reverse())
+print("The reversed string is : ", o1.revStr())
